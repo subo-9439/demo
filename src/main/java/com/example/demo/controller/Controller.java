@@ -8,7 +8,11 @@ public class Controller {
 
     @GetMapping("/hello")
     public String hello(){
-
+        System.out.println("sdafasdfdsafdsafdsasfsdaf");
+        System.out.println("sdafasdfdsafdsafdsasfsdaf");
+        System.out.println("sdafasdfdsafdsafdsasfsdaf");
+        System.out.println("sdafasdfdsafdsafdsasfsdaf");
+        System.out.println("sdafasdfdsafdsafdsasfsdaf");
         return "text";
     }
 }
